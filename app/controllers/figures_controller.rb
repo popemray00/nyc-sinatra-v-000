@@ -43,4 +43,3 @@ class FiguresController < ApplicationController
   end
 
 end
-© 2018 GitHub, Inc.
